@@ -1,6 +1,6 @@
 
  <!-- Fixed navbar -->
-    <nav class="navbar navbar-default navbar-fixed-top">
+    <nav class="navbar navbar-default navbar-fixed-top navbar-right cnav">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -12,25 +12,39 @@
           <a class="navbar-brand" href="#">Ditex</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
+          <ul class="nav navbar-nav navbar-right">
             {% url 'home' as home %}
             {% url 'about' as about %}
             {% url 'contact' as contact %}
             <li {% if request.path == home %} class="active" {% endif %}><a href="{% url 'home' %}">Home</a></li>
             <li {% if request.path == about %} class="active" {% endif %}><a href="{% url 'about' %}">About</a></li>
             <li{% if request.path == contact %} class="active" {% endif %}><a href="{% url 'contact' %}">contact</a></li>
+            {% if  request.user.is_authenticated %}
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ request.user.username }} <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="#">Login</a></li>
-                <li><a href="#">Sign UP</a></li>
-                <li><a href="#">Logout</a></li>
+                <!-- <li><a href="#">Profile</a></li> -->
+                <li><a href="{% url 'account_logout' %}">Logout</a></li>
+                <!-- <li role="separator" class="divider"></li>
+                <li class="dropdown-header">Nav header</li>
+                <li><a href="#">Profile</a></li>
+                <li><a href="#">Search</a></li> -->
+              </ul>
+            </li>
+            {% else %}
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Account <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="{% url 'account_login' %}">Login</a></li>
+                <li><a href="{% url 'account_signup' %}">Sign UP</a></li>
                 <li role="separator" class="divider"></li>
                 <li class="dropdown-header">Nav header</li>
                 <li><a href="#">Profile</a></li>
                 <li><a href="#">Search</a></li>
               </ul>
+            
             </li>
+            {% endif %}
           </ul>
         </div><!--/.nav-collapse -->
       </div>

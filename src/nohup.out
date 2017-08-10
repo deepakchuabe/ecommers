@@ -1,0 +1,659 @@
+[29/Jul/2017 07:40:21] "GET / HTTP/1.1" 200 4299
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 07:40:22] "GET /assets/flash/ZeroClipboard.swf?noCache=1501314022324 HTTP/1.1" 404 2515
+[29/Jul/2017 07:40:36] "GET / HTTP/1.1" 200 4299
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 07:40:37] "GET /assets/flash/ZeroClipboard.swf?noCache=1501314037183 HTTP/1.1" 404 2515
+[29/Jul/2017 07:40:47] "GET /about/ HTTP/1.1" 200 3911
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 07:40:48] "GET /assets/flash/ZeroClipboard.swf?noCache=1501314048275 HTTP/1.1" 404 2515
+[29/Jul/2017 07:40:49] "GET /contact/ HTTP/1.1" 200 5187
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 07:40:50] "GET /assets/flash/ZeroClipboard.swf?noCache=1501314050262 HTTP/1.1" 404 2515
+[29/Jul/2017 07:40:57] "GET / HTTP/1.1" 200 4299
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 07:40:58] "GET /assets/flash/ZeroClipboard.swf?noCache=1501314057846 HTTP/1.1" 404 2515
+[29/Jul/2017 07:40:59] "GET /about/ HTTP/1.1" 200 3911
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 07:41:00] "GET /assets/flash/ZeroClipboard.swf?noCache=1501314060243 HTTP/1.1" 404 2515
+[29/Jul/2017 07:41:01] "GET /contact/ HTTP/1.1" 200 5187
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 07:41:02] "GET /assets/flash/ZeroClipboard.swf?noCache=1501314061869 HTTP/1.1" 404 2515
+[29/Jul/2017 07:49:13] "GET /static/css/bootstrap.min.css.map HTTP/1.1" 404 1691
+[29/Jul/2017 07:49:13] "GET /static/css/bootstrap-theme.min.css.map HTTP/1.1" 404 1709
+[29/Jul/2017 07:50:56] "GET /contact/ HTTP/1.1" 200 5200
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 07:50:59] "GET /assets/flash/ZeroClipboard.swf?noCache=1501314658157 HTTP/1.1" 404 2515
+[29/Jul/2017 07:51:00] "GET /static/css/bootstrap.min.css.map HTTP/1.1" 404 1691
+[29/Jul/2017 07:51:01] "GET / HTTP/1.1" 200 4312
+[29/Jul/2017 07:51:01] "GET /static/css/bootstrap-theme.min.css.map HTTP/1.1" 404 1709
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 07:51:02] "GET /assets/flash/ZeroClipboard.swf?noCache=1501314662411 HTTP/1.1" 404 2515
+[29/Jul/2017 07:51:04] "GET /about/ HTTP/1.1" 200 3924
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 07:51:05] "GET /assets/flash/ZeroClipboard.swf?noCache=1501314665653 HTTP/1.1" 404 2515
+[29/Jul/2017 07:55:16] "GET /about/ HTTP/1.1" 200 3999
+[29/Jul/2017 07:55:27] "GET / HTTP/1.1" 200 4387
+[29/Jul/2017 07:55:28] "GET / HTTP/1.1" 200 4387
+[29/Jul/2017 07:55:59] "GET / HTTP/1.1" 200 4316
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 07:56:00] "GET /assets/flash/ZeroClipboard.swf?noCache=1501314960699 HTTP/1.1" 404 2515
+[29/Jul/2017 08:05:44] "GET /about/ HTTP/1.1" 200 3928
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 08:05:45] "GET /assets/flash/ZeroClipboard.swf?noCache=1501315545229 HTTP/1.1" 404 2515
+[29/Jul/2017 08:05:45] "GET /contact/ HTTP/1.1" 200 5204
+[29/Jul/2017 08:05:46] "GET /contact/ HTTP/1.1" 200 5204
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 08:05:46] "GET /assets/flash/ZeroClipboard.swf?noCache=1501315546214 HTTP/1.1" 404 2515
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 08:05:47] "GET /assets/flash/ZeroClipboard.swf?noCache=1501315547196 HTTP/1.1" 404 2515
+[29/Jul/2017 08:05:57] "GET /about/ HTTP/1.1" 200 3928
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 08:05:58] "GET /assets/flash/ZeroClipboard.swf?noCache=1501315558050 HTTP/1.1" 404 2515
+[29/Jul/2017 08:06:00] "GET / HTTP/1.1" 200 4316
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 08:06:00] "GET /assets/flash/ZeroClipboard.swf?noCache=1501315560685 HTTP/1.1" 404 2515
+[29/Jul/2017 16:41:52] "GET / HTTP/1.1" 200 4316
+[29/Jul/2017 16:41:53] "GET /static/css/ie10-viewport-bug-workaround.css HTTP/1.1" 200 433
+[29/Jul/2017 16:41:53] "GET /static/css/bootstrap-theme.min.css HTTP/1.1" 200 23409
+[29/Jul/2017 16:41:53] "GET /static/js/ie-emulation-modes-warning.js HTTP/1.1" 200 2130
+[29/Jul/2017 16:41:53] "GET /static/css/theme.css HTTP/1.1" 200 255
+[29/Jul/2017 16:41:54] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+[29/Jul/2017 16:41:54] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+[29/Jul/2017 16:41:54] "GET /static/js/ie10-viewport-bug-workaround.js HTTP/1.1" 200 641
+[29/Jul/2017 16:41:54] "GET /static/js/docs.min.js HTTP/1.1" 200 47160
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 16:41:58] "GET /assets/flash/ZeroClipboard.swf?noCache=1501346517752 HTTP/1.1" 404 2515
+Not Found: /favicon.ico
+[29/Jul/2017 16:41:59] "GET /favicon.ico HTTP/1.1" 404 2436
+[29/Jul/2017 16:42:01] "GET /about/ HTTP/1.1" 200 3928
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 16:42:03] "GET /assets/flash/ZeroClipboard.swf?noCache=1501346522079 HTTP/1.1" 404 2515
+[29/Jul/2017 16:42:03] "GET /contact/ HTTP/1.1" 200 5204
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 16:42:04] "GET /assets/flash/ZeroClipboard.swf?noCache=1501346523714 HTTP/1.1" 404 2515
+[29/Jul/2017 18:19:47] "GET / HTTP/1.1" 200 4316
+[29/Jul/2017 18:19:47] "GET /static/css/bootstrap-theme.min.css HTTP/1.1" 200 23409
+[29/Jul/2017 18:19:47] "GET /static/css/ie10-viewport-bug-workaround.css HTTP/1.1" 200 433
+[29/Jul/2017 18:19:48] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 18:19:49] "GET /assets/flash/ZeroClipboard.swf?noCache=1501352388871 HTTP/1.1" 404 2515
+[29/Jul/2017 18:19:50] "GET /about/ HTTP/1.1" 200 3928
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 18:19:51] "GET /assets/flash/ZeroClipboard.swf?noCache=1501352390547 HTTP/1.1" 404 2515
+[29/Jul/2017 18:19:53] "GET /contact/ HTTP/1.1" 200 5204
+Not Found: /assets/flash/ZeroClipboard.swf
+[29/Jul/2017 18:19:54] "GET /assets/flash/ZeroClipboard.swf?noCache=1501352394069 HTTP/1.1" 404 2515
+[29/Jul/2017 21:37:57] "GET / HTTP/1.1" 200 4316
+[30/Jul/2017 13:48:42] "GET / HTTP/1.1" 200 4316
+[30/Jul/2017 13:48:42] "GET /static/css/bootstrap-theme.min.css HTTP/1.1" 200 23409
+[30/Jul/2017 13:48:42] "GET /static/css/ie10-viewport-bug-workaround.css HTTP/1.1" 200 433
+[30/Jul/2017 13:48:42] "GET /static/css/theme.css HTTP/1.1" 200 255
+[30/Jul/2017 13:48:42] "GET /static/js/ie-emulation-modes-warning.js HTTP/1.1" 200 2130
+[30/Jul/2017 13:48:43] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+[30/Jul/2017 13:48:43] "GET /static/js/docs.min.js HTTP/1.1" 200 47160
+[30/Jul/2017 13:48:43] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+[30/Jul/2017 13:48:43] "GET /static/js/ie10-viewport-bug-workaround.js HTTP/1.1" 200 641
+Not Found: /assets/flash/ZeroClipboard.swf
+[30/Jul/2017 13:48:45] "GET /assets/flash/ZeroClipboard.swf?noCache=1501422524294 HTTP/1.1" 404 2515
+Not Found: /favicon.ico
+[30/Jul/2017 13:48:45] "GET /favicon.ico HTTP/1.1" 404 2436
+[30/Jul/2017 13:48:47] "GET /about/ HTTP/1.1" 200 3928
+Not Found: /assets/flash/ZeroClipboard.swf
+[30/Jul/2017 13:48:48] "GET /assets/flash/ZeroClipboard.swf?noCache=1501422527515 HTTP/1.1" 404 2515
+[30/Jul/2017 13:48:49] "GET /contact/ HTTP/1.1" 200 5204
+Not Found: /assets/flash/ZeroClipboard.swf
+[30/Jul/2017 13:48:50] "GET /assets/flash/ZeroClipboard.swf?noCache=1501422530262 HTTP/1.1" 404 2515
+[30/Jul/2017 20:12:39] "GET / HTTP/1.1" 200 4316
+[31/Jul/2017 04:32:54] "GET / HTTP/1.1" 200 4316
+Not Found: /favicon.ico
+[31/Jul/2017 04:32:55] "GET /favicon.ico HTTP/1.1" 404 2472
+[31/Jul/2017 04:58:39] "GET / HTTP/1.1" 200 4316
+[31/Jul/2017 04:58:40] "GET /static/css/ie10-viewport-bug-workaround.css HTTP/1.1" 200 433
+[31/Jul/2017 04:58:40] "GET /static/css/bootstrap-theme.min.css HTTP/1.1" 200 23409
+[31/Jul/2017 04:58:40] "GET /static/css/theme.css HTTP/1.1" 200 255
+[31/Jul/2017 04:58:40] "GET /static/js/ie-emulation-modes-warning.js HTTP/1.1" 200 2130
+[31/Jul/2017 04:58:40] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+[31/Jul/2017 04:58:41] "GET /static/js/ie10-viewport-bug-workaround.js HTTP/1.1" 200 641
+[31/Jul/2017 04:58:41] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+[31/Jul/2017 04:58:41] "GET /static/js/docs.min.js HTTP/1.1" 200 47160
+[31/Jul/2017 07:08:37] "GET / HTTP/1.1" 200 4316
+[31/Jul/2017 12:20:47] code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03\x18\xad\xaa\xa5\xac%\x9b\x1e\xed\x1f\xb1\x9e\xc3\xef\xc2\xc3\x1e\xa4\x98\xe0\x1f\xe8\xed\xf7:d\x059'v\xa9\x18\x00\x00p\xc00\xc0,\xc02\xc0.\xc0/\xc0+\xc01\xc0-\x00\xa3\x00\x9f\x00\xa2\x00\x9e\xc0(\xc0$\xc0\x14\xc0")
+[31/Jul/2017 12:20:47] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[02/Aug/2017 05:22:42] "GET / HTTP/1.1" 200 4316
+[02/Aug/2017 07:20:05] "GET / HTTP/1.1" 200 4316
+[02/Aug/2017 07:20:06] "GET /static/css/bootstrap-theme.min.css HTTP/1.1" 200 23409
+[02/Aug/2017 07:20:06] "GET /static/css/ie10-viewport-bug-workaround.css HTTP/1.1" 200 433
+[02/Aug/2017 07:20:06] "GET /static/css/theme.css HTTP/1.1" 200 255
+[02/Aug/2017 07:20:06] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+[02/Aug/2017 07:20:07] "GET /static/js/ie10-viewport-bug-workaround.js HTTP/1.1" 200 641
+[02/Aug/2017 07:20:07] "GET /static/js/ie-emulation-modes-warning.js HTTP/1.1" 200 2130
+[02/Aug/2017 07:20:07] "GET /static/js/docs.min.js HTTP/1.1" 200 47160
+[02/Aug/2017 07:20:07] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:20:09] "GET /assets/flash/ZeroClipboard.swf?noCache=1501658408025 HTTP/1.1" 404 2515
+Not Found: /favicon.ico
+[02/Aug/2017 07:20:09] "GET /favicon.ico HTTP/1.1" 404 2436
+[02/Aug/2017 07:20:12] "GET /?message=Dsadsadsadas,%3Cscript%3Ealert(document.domain)%3C/script%3E HTTP/1.1" 200 4316
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:20:13] "GET /assets/flash/ZeroClipboard.swf?noCache=1501658413008 HTTP/1.1" 404 2515
+[02/Aug/2017 07:20:17] "GET /?message=Dsadsadsadas,%3Cscript%3Ealert(document.domain)%3C/script%3E HTTP/1.1" 200 4316
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:20:17] "GET /assets/flash/ZeroClipboard.swf?noCache=1501658417588 HTTP/1.1" 404 2515
+[02/Aug/2017 07:20:22] "GET /about/ HTTP/1.1" 200 3928
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:20:23] "GET /assets/flash/ZeroClipboard.swf?noCache=1501658423058 HTTP/1.1" 404 2515
+[02/Aug/2017 07:20:28] "GET /about/?message=Dsadsadsadas,%3Cscript%3Ealert(document.domain)%3C/script%3E HTTP/1.1" 200 3928
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:20:28] "GET /assets/flash/ZeroClipboard.swf?noCache=1501658428578 HTTP/1.1" 404 2515
+[02/Aug/2017 07:20:32] "GET /contact/ HTTP/1.1" 200 5204
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:20:33] "GET /assets/flash/ZeroClipboard.swf?noCache=1501658432984 HTTP/1.1" 404 2515
+[02/Aug/2017 07:20:40] "GET / HTTP/1.1" 200 4316
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:20:41] "GET /assets/flash/ZeroClipboard.swf?noCache=1501658440928 HTTP/1.1" 404 2515
+[02/Aug/2017 07:21:21] "GET /about/ HTTP/1.1" 200 3928
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:21:22] "GET /assets/flash/ZeroClipboard.swf?noCache=1501658482277 HTTP/1.1" 404 2515
+[02/Aug/2017 07:21:24] "GET /contact/ HTTP/1.1" 200 5204
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:21:25] "GET /assets/flash/ZeroClipboard.swf?noCache=1501658485081 HTTP/1.1" 404 2515
+Not Found: /account/signup/
+[02/Aug/2017 07:42:41] "GET /account/signup/ HTTP/1.1" 404 2448
+Internal Server Error: /accounts/signup/
+Traceback (most recent call last):
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 217, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 215, in _get_response
+    response = response.render()
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/template/response.py", line 107, in render
+    self.content = self.rendered_content
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/template/response.py", line 82, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/template/response.py", line 64, in resolve_template
+    return select_template(template, using=self.using)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/template/loader.py", line 48, in select_template
+    return engine.get_template(template_name)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/template/backends/django.py", line 39, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/template/engine.py", line 162, in get_template
+    template, origin = self.find_template(template_name)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/template/engine.py", line 136, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/template/loaders/base.py", line 44, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/template/base.py", line 191, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/template/base.py", line 230, in compile_nodelist
+    return parser.parse()
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/template/base.py", line 515, in parse
+    raise self.error(token, e)
+TemplateSyntaxError: 'block' tag with name 'content' appears more than once
+[02/Aug/2017 07:42:52] "GET /accounts/signup/ HTTP/1.1" 500 120393
+[02/Aug/2017 07:43:47] "GET /accounts/signup/ HTTP/1.1" 200 4275
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:43:48] "GET /assets/flash/ZeroClipboard.swf?noCache=1501659828535 HTTP/1.1" 404 2515
+[02/Aug/2017 07:44:36] "GET /accounts/signup/ HTTP/1.1" 200 4299
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:44:37] "GET /assets/flash/ZeroClipboard.swf?noCache=1501659877536 HTTP/1.1" 404 2515
+[02/Aug/2017 07:44:55] "GET /accounts/signup/ HTTP/1.1" 200 5722
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:44:56] "GET /assets/flash/ZeroClipboard.swf?noCache=1501659896413 HTTP/1.1" 404 2515
+[02/Aug/2017 07:45:37] "GET /accounts/signup/ HTTP/1.1" 200 5722
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:45:38] "GET /assets/flash/ZeroClipboard.swf?noCache=1501659937946 HTTP/1.1" 404 2515
+[02/Aug/2017 07:46:06] "GET /accounts/login/ HTTP/1.1" 200 0
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:48:21] "GET /assets/flash/ZeroClipboard.swf?noCache=1501660100918 HTTP/1.1" 404 2515
+[02/Aug/2017 07:49:06] "GET /accounts/login/ HTTP/1.1" 200 5359
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:49:07] "GET /assets/flash/ZeroClipboard.swf?noCache=1501660147032 HTTP/1.1" 404 2515
+[02/Aug/2017 07:50:57] "GET /accounts/login/ HTTP/1.1" 200 5404
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:50:58] "GET /assets/flash/ZeroClipboard.swf?noCache=1501660258037 HTTP/1.1" 404 2515
+[02/Aug/2017 07:51:02] "GET /accounts/signup/ HTTP/1.1" 200 5756
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:51:03] "GET /assets/flash/ZeroClipboard.swf?noCache=1501660262766 HTTP/1.1" 404 2515
+[02/Aug/2017 07:54:05] "GET /accounts/signup/ HTTP/1.1" 200 5756
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:54:06] "GET /assets/flash/ZeroClipboard.swf?noCache=1501660446546 HTTP/1.1" 404 2515
+[02/Aug/2017 07:54:09] "GET /accounts/login/ HTTP/1.1" 200 5404
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:54:10] "GET /assets/flash/ZeroClipboard.swf?noCache=1501660450076 HTTP/1.1" 404 2515
+[02/Aug/2017 07:54:24] "GET /accounts/logout/ HTTP/1.1" 302 0
+[02/Aug/2017 07:54:24] "GET / HTTP/1.1" 200 4316
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:54:26] "GET /assets/flash/ZeroClipboard.swf?noCache=1501660465755 HTTP/1.1" 404 2515
+[02/Aug/2017 07:54:40] "GET /accounts/logout/ HTTP/1.1" 302 0
+[02/Aug/2017 07:54:40] "GET / HTTP/1.1" 200 4316
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:54:41] "GET /assets/flash/ZeroClipboard.swf?noCache=1501660481175 HTTP/1.1" 404 2515
+[02/Aug/2017 07:55:39] "GET /accounts/logout/ HTTP/1.1" 302 0
+[02/Aug/2017 07:55:39] "GET / HTTP/1.1" 200 4316
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:55:40] "GET /assets/flash/ZeroClipboard.swf?noCache=1501660540173 HTTP/1.1" 404 2515
+[02/Aug/2017 07:55:51] "GET /accounts/login HTTP/1.1" 301 0
+[02/Aug/2017 07:55:52] "GET /accounts/login/ HTTP/1.1" 200 5404
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:55:53] "GET /assets/flash/ZeroClipboard.swf?noCache=1501660553140 HTTP/1.1" 404 2515
+[02/Aug/2017 07:56:03] "POST /accounts/login/ HTTP/1.1" 302 0
+[02/Aug/2017 07:56:03] "GET / HTTP/1.1" 200 4316
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:56:05] "GET /assets/flash/ZeroClipboard.swf?noCache=1501660564372 HTTP/1.1" 404 2515
+[02/Aug/2017 07:56:14] "GET /accounts/logout/ HTTP/1.1" 200 4225
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:56:14] "GET /assets/flash/ZeroClipboard.swf?noCache=1501660574439 HTTP/1.1" 404 2515
+[02/Aug/2017 07:56:21] "POST /accounts/logout/ HTTP/1.1" 302 0
+[02/Aug/2017 07:56:21] "GET / HTTP/1.1" 200 4316
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 07:56:22] "GET /assets/flash/ZeroClipboard.swf?noCache=1501660582293 HTTP/1.1" 404 2515
+[02/Aug/2017 08:01:58] "GET / HTTP/1.1" 200 4919
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:01:59] "GET /assets/flash/ZeroClipboard.swf?noCache=1501660919361 HTTP/1.1" 404 2515
+[02/Aug/2017 08:02:02] "GET /contact/ HTTP/1.1" 200 5807
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:02:02] "GET /assets/flash/ZeroClipboard.swf?noCache=1501660922510 HTTP/1.1" 404 2515
+[02/Aug/2017 08:03:27] "GET /contact/ HTTP/1.1" 200 5157
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:03:28] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661007940 HTTP/1.1" 404 2515
+[02/Aug/2017 08:03:45] "GET /accounts/logout/ HTTP/1.1" 302 0
+[02/Aug/2017 08:03:45] "GET / HTTP/1.1" 200 4269
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:03:46] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661026182 HTTP/1.1" 404 2515
+[02/Aug/2017 08:04:03] "GET /accounts/login/ HTTP/1.1" 200 5357
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:04:04] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661044230 HTTP/1.1" 404 2515
+[02/Aug/2017 08:04:11] "POST /accounts/login/ HTTP/1.1" 302 0
+[02/Aug/2017 08:04:11] "GET / HTTP/1.1" 200 4269
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:04:12] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661051924 HTTP/1.1" 404 2515
+[02/Aug/2017 08:05:22] "GET / HTTP/1.1" 200 4329
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:05:23] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661123122 HTTP/1.1" 404 2515
+[02/Aug/2017 08:08:07] "GET / HTTP/1.1" 200 4312
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:08:08] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661288042 HTTP/1.1" 404 2515
+[02/Aug/2017 08:08:10] "GET /accounts/login/ HTTP/1.1" 302 0
+[02/Aug/2017 08:08:10] "GET / HTTP/1.1" 200 4312
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:08:11] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661291020 HTTP/1.1" 404 2515
+[02/Aug/2017 08:08:18] "GET /accounts/signup/ HTTP/1.1" 302 0
+[02/Aug/2017 08:08:18] "GET / HTTP/1.1" 200 4312
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:08:19] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661298777 HTTP/1.1" 404 2515
+[02/Aug/2017 08:09:58] "GET /accounts/logout/ HTTP/1.1" 200 4245
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:09:59] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661399513 HTTP/1.1" 404 2515
+[02/Aug/2017 08:10:01] "POST /accounts/logout/ HTTP/1.1" 302 0
+[02/Aug/2017 08:10:01] "GET / HTTP/1.1" 200 4303
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:10:02] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661402372 HTTP/1.1" 404 2515
+[02/Aug/2017 08:10:18] "GET / HTTP/1.1" 200 4312
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:10:19] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661419217 HTTP/1.1" 404 2515
+[02/Aug/2017 08:10:21] "GET /accounts/login/ HTTP/1.1" 200 5400
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:10:22] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661422185 HTTP/1.1" 404 2515
+[02/Aug/2017 08:10:26] "GET /accounts/signup/ HTTP/1.1" 200 5752
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:10:27] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661426774 HTTP/1.1" 404 2515
+[02/Aug/2017 08:10:31] "GET /accounts/login/ HTTP/1.1" 200 5400
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:10:32] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661432150 HTTP/1.1" 404 2515
+[02/Aug/2017 08:10:39] "POST /accounts/login/ HTTP/1.1" 302 0
+[02/Aug/2017 08:10:39] "GET / HTTP/1.1" 200 4303
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:10:40] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661440408 HTTP/1.1" 404 2515
+[02/Aug/2017 08:10:45] "GET /accounts/logout/ HTTP/1.1" 200 4236
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:10:46] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661445980 HTTP/1.1" 404 2515
+[02/Aug/2017 08:10:49] "POST /accounts/logout/ HTTP/1.1" 302 0
+[02/Aug/2017 08:10:49] "GET / HTTP/1.1" 200 4312
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:10:50] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661450180 HTTP/1.1" 404 2515
+[02/Aug/2017 08:11:50] "GET /accounts/inactive HTTP/1.1" 301 0
+[02/Aug/2017 08:11:50] "GET /accounts/inactive/ HTTP/1.1" 200 3945
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:11:51] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661511663 HTTP/1.1" 404 2515
+[02/Aug/2017 08:12:46] "GET /accounts/confirm-email HTTP/1.1" 301 0
+[02/Aug/2017 08:12:46] "GET /accounts/confirm-email/ HTTP/1.1" 200 4108
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:12:48] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661567886 HTTP/1.1" 404 2515
+[02/Aug/2017 08:13:15] "GET /accounts/email/ HTTP/1.1" 302 0
+[02/Aug/2017 08:13:15] "GET /accounts/login/?next=/accounts/email/ HTTP/1.1" 200 5494
+Not Found: /assets/flash/ZeroClipboard.swf
+[02/Aug/2017 08:13:17] "GET /assets/flash/ZeroClipboard.swf?noCache=1501661596923 HTTP/1.1" 404 2515
+[02/Aug/2017 08:17:49] "GET /admin HTTP/1.1" 301 0
+[02/Aug/2017 08:17:49] "GET /admin/ HTTP/1.1" 302 0
+[02/Aug/2017 08:17:50] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2108
+[02/Aug/2017 08:17:50] "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+[02/Aug/2017 08:17:50] "GET /static/admin/css/base.css HTTP/1.1" 200 16066
+[02/Aug/2017 08:17:51] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[02/Aug/2017 08:17:51] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[02/Aug/2017 08:17:52] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[02/Aug/2017 08:17:52] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[02/Aug/2017 08:18:08] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[02/Aug/2017 08:18:09] "GET /admin/ HTTP/1.1" 200 6379
+[02/Aug/2017 08:18:09] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[02/Aug/2017 08:18:10] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[02/Aug/2017 08:18:10] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[02/Aug/2017 08:18:10] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[02/Aug/2017 08:18:17] "GET /admin/auth/user/ HTTP/1.1" 200 6449
+[02/Aug/2017 08:18:17] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[02/Aug/2017 08:18:17] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[02/Aug/2017 08:18:17] "GET /static/admin/js/core.js HTTP/1.1" 200 7976
+[02/Aug/2017 08:18:17] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[02/Aug/2017 08:18:17] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6591
+[02/Aug/2017 08:18:18] "GET /static/admin/js/actions.js HTTP/1.1" 200 6501
+[02/Aug/2017 08:18:18] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8186
+[02/Aug/2017 08:18:18] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[02/Aug/2017 08:18:18] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[02/Aug/2017 08:18:19] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[02/Aug/2017 08:18:19] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[02/Aug/2017 08:18:20] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[02/Aug/2017 08:18:20] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[02/Aug/2017 08:18:22] "GET /admin/auth/user/1/change/ HTTP/1.1" 200 15250
+[02/Aug/2017 08:18:22] "GET /static/admin/css/forms.css HTTP/1.1" 200 8173
+[02/Aug/2017 08:18:23] "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 5755
+[02/Aug/2017 08:18:23] "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 12389
+[02/Aug/2017 08:18:23] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 20529
+[02/Aug/2017 08:18:23] "GET /static/admin/js/calendar.js HTTP/1.1" 200 7790
+[02/Aug/2017 08:18:23] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[02/Aug/2017 08:18:23] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+[02/Aug/2017 08:18:24] "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+[02/Aug/2017 08:18:24] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+[02/Aug/2017 08:18:25] "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+[02/Aug/2017 08:18:25] "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+[02/Aug/2017 08:18:25] "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+[02/Aug/2017 08:18:25] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[02/Aug/2017 08:18:25] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+[02/Aug/2017 08:18:33] "GET /admin/auth/ HTTP/1.1" 200 2705
+[02/Aug/2017 08:18:39] "GET /admin/auth/user/ HTTP/1.1" 200 6449
+[02/Aug/2017 08:18:40] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[02/Aug/2017 08:18:43] "GET /admin/auth/ HTTP/1.1" 200 2705
+[02/Aug/2017 08:18:45] "GET /admin/ HTTP/1.1" 200 6379
+[02/Aug/2017 08:18:50] "GET /admin/socialaccount/socialaccount/ HTTP/1.1" 200 3669
+[02/Aug/2017 08:18:51] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[02/Aug/2017 08:18:54] "GET /admin/socialaccount/socialaccount/add/ HTTP/1.1" 200 5576
+[02/Aug/2017 08:18:55] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[02/Aug/2017 08:28:20] "GET /admin/logout/ HTTP/1.1" 200 1010
+Not Found: /socialaccount
+[02/Aug/2017 08:28:34] "GET /socialaccount HTTP/1.1" 404 2442
+[02/Aug/2017 10:09:12] "GET / HTTP/1.1" 200 4312
+[03/Aug/2017 04:22:36] "GET / HTTP/1.1" 200 4303
+[03/Aug/2017 04:22:36] "GET /static/css/bootstrap-theme.min.css HTTP/1.1" 304 0
+[03/Aug/2017 04:22:36] "GET /static/css/ie10-viewport-bug-workaround.css HTTP/1.1" 304 0
+[03/Aug/2017 04:22:36] "GET /static/css/theme.css HTTP/1.1" 304 0
+[03/Aug/2017 04:22:36] "GET /static/js/ie-emulation-modes-warning.js HTTP/1.1" 304 0
+[03/Aug/2017 04:22:36] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+[03/Aug/2017 04:22:36] "GET /static/js/docs.min.js HTTP/1.1" 304 0
+[03/Aug/2017 04:22:37] "GET /static/js/ie10-viewport-bug-workaround.js HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[03/Aug/2017 04:22:38] "GET /favicon.ico HTTP/1.1" 404 2472
+[03/Aug/2017 04:22:39] "GET /about/ HTTP/1.1" 200 3915
+[03/Aug/2017 04:22:41] "GET /contact/ HTTP/1.1" 200 5191
+[03/Aug/2017 04:22:53] "GET /accounts/logout/ HTTP/1.1" 200 4236
+[03/Aug/2017 04:22:59] "GET /accounts/logout/ HTTP/1.1" 200 4236
+[03/Aug/2017 04:23:03] "POST /accounts/logout/ HTTP/1.1" 302 0
+[03/Aug/2017 04:23:04] "GET / HTTP/1.1" 200 4312
+[03/Aug/2017 04:23:07] "GET /about/ HTTP/1.1" 200 3924
+[03/Aug/2017 04:23:09] "GET /contact/ HTTP/1.1" 200 5200
+[03/Aug/2017 04:23:12] "GET /accounts/login/ HTTP/1.1" 200 5400
+[03/Aug/2017 04:23:15] "GET /accounts/signup/ HTTP/1.1" 200 5752
+[03/Aug/2017 05:07:22] "POST /accounts/signup/ HTTP/1.1" 200 5927
+[03/Aug/2017 05:07:59] "POST /accounts/signup/ HTTP/1.1" 302 0
+[03/Aug/2017 05:08:00] "GET / HTTP/1.1" 200 4303
+[03/Aug/2017 05:08:11] "GET /accounts/logout/ HTTP/1.1" 200 4236
+[03/Aug/2017 05:08:14] "POST /accounts/logout/ HTTP/1.1" 302 0
+[03/Aug/2017 05:08:14] "GET / HTTP/1.1" 200 4312
+[03/Aug/2017 05:08:21] "GET /accounts/login/ HTTP/1.1" 200 5400
+[03/Aug/2017 05:08:40] "POST /accounts/login/ HTTP/1.1" 302 0
+[03/Aug/2017 05:08:41] "GET / HTTP/1.1" 200 4303
+[03/Aug/2017 05:09:07] "GET / HTTP/1.1" 200 4312
+[03/Aug/2017 05:09:09] "GET /static/css/bootstrap-theme.min.css HTTP/1.1" 200 23409
+[03/Aug/2017 05:09:09] "GET /static/css/ie10-viewport-bug-workaround.css HTTP/1.1" 200 433
+[03/Aug/2017 05:09:09] "GET /static/css/theme.css HTTP/1.1" 200 255
+[03/Aug/2017 05:09:09] "GET /static/js/ie-emulation-modes-warning.js HTTP/1.1" 200 2130
+[03/Aug/2017 05:09:09] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+[03/Aug/2017 05:09:09] "GET /static/js/docs.min.js HTTP/1.1" 200 47160
+[03/Aug/2017 05:09:09] "GET /static/js/ie10-viewport-bug-workaround.js HTTP/1.1" 200 641
+Not Found: /favicon.ico
+[03/Aug/2017 05:09:09] "GET /favicon.ico HTTP/1.1" 404 2472
+[03/Aug/2017 05:09:10] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+[03/Aug/2017 05:09:14] "GET /accounts/login/ HTTP/1.1" 200 5400
+[03/Aug/2017 05:09:34] "POST /accounts/login/ HTTP/1.1" 302 0
+[03/Aug/2017 05:09:34] "GET / HTTP/1.1" 200 4303
+[03/Aug/2017 05:09:39] "GET /accounts/logout/ HTTP/1.1" 200 4236
+[03/Aug/2017 05:09:42] "POST /accounts/logout/ HTTP/1.1" 302 0
+[03/Aug/2017 05:09:43] "GET / HTTP/1.1" 200 4312
+[03/Aug/2017 05:09:46] "GET /about/ HTTP/1.1" 200 3915
+[03/Aug/2017 05:09:51] "GET /contact/ HTTP/1.1" 200 5191
+[03/Aug/2017 05:10:25] "GET / HTTP/1.1" 200 4303
+[03/Aug/2017 05:35:24] "GET /about/ HTTP/1.1" 200 3915
+[03/Aug/2017 05:56:02] "GET /about/ HTTP/1.1" 200 3924
+[03/Aug/2017 05:56:02] "GET /static/css/bootstrap-theme.min.css HTTP/1.1" 200 23409
+[03/Aug/2017 05:56:03] "GET /static/js/ie-emulation-modes-warning.js HTTP/1.1" 200 2130
+[03/Aug/2017 05:56:03] "GET /static/css/ie10-viewport-bug-workaround.css HTTP/1.1" 200 433
+[03/Aug/2017 05:56:03] "GET /static/css/theme.css HTTP/1.1" 200 255
+[03/Aug/2017 05:56:03] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+[03/Aug/2017 05:56:04] "GET /static/js/ie10-viewport-bug-workaround.js HTTP/1.1" 200 641
+[03/Aug/2017 05:56:04] "GET /static/js/docs.min.js HTTP/1.1" 200 47160
+[03/Aug/2017 05:56:05] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+Not Found: /favicon.ico
+[03/Aug/2017 05:56:06] "GET /favicon.ico HTTP/1.1" 404 2436
+[03/Aug/2017 05:56:06] "GET / HTTP/1.1" 200 4312
+[03/Aug/2017 05:56:16] "GET / HTTP/1.1" 200 4312
+[03/Aug/2017 05:56:17] "GET /static/js/ie-emulation-modes-warning.js HTTP/1.1" 200 2130
+[03/Aug/2017 05:56:17] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+[03/Aug/2017 05:56:17] "GET /static/js/ie10-viewport-bug-workaround.js HTTP/1.1" 200 641
+[03/Aug/2017 05:56:17] "GET /static/js/docs.min.js HTTP/1.1" 200 47160
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 29, 2017 - 07:40:05
+Django version 1.11, using settings 'tryTen.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Traceback (most recent call last):
+  File "manage.py", line 22, in <module>
+    execute_from_command_line(sys.argv)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/core/management/__init__.py", line 363, in execute_from_command_line
+    utility.execute()
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/core/management/__init__.py", line 355, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/core/management/base.py", line 283, in run_from_argv
+    self.execute(*args, **cmd_options)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 62, in execute
+    super(Command, self).execute(*args, **options)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/core/management/base.py", line 330, in execute
+    output = self.handle(*args, **options)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 73, in handle
+    if not settings.DEBUG and not settings.ALLOWED_HOSTS:
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/conf/__init__.py", line 56, in __getattr__
+    self._setup(name)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/conf/__init__.py", line 41, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/conf/__init__.py", line 129, in __init__
+    raise ImproperlyConfigured("The SECRET_KEY setting must not be empty.")
+django.core.exceptions.ImproperlyConfigured: The SECRET_KEY setting must not be empty.
+Traceback (most recent call last):
+  File "manage.py", line 17, in <module>
+    "Couldn't import Django. Are you sure it's installed and "
+ImportError: Couldn't import Django. Are you sure it's installed and available on your PYTHONPATH environment variable? Did you forget to activate a virtual environment?
+Traceback (most recent call last):
+  File "manage.py", line 17, in <module>
+    "Couldn't import Django. Are you sure it's installed and "
+ImportError: Couldn't import Django. Are you sure it's installed and available on your PYTHONPATH environment variable? Did you forget to activate a virtual environment?
+Traceback (most recent call last):
+  File "manage.py", line 17, in <module>
+    "Couldn't import Django. Are you sure it's installed and "
+ImportError: Couldn't import Django. Are you sure it's installed and available on your PYTHONPATH environment variable? Did you forget to activate a virtual environment?
+Traceback (most recent call last):
+  File "manage.py", line 17, in <module>
+    "Couldn't import Django. Are you sure it's installed and "
+ImportError: Couldn't import Django. Are you sure it's installed and available on your PYTHONPATH environment variable? Did you forget to activate a virtual environment?
+[05/Aug/2017 13:58:44] "GET / HTTP/1.1" 200 4312
+[05/Aug/2017 13:58:44] "GET /static/css/bootstrap-theme.min.css HTTP/1.1" 200 23409
+[05/Aug/2017 13:58:44] "GET /static/css/ie10-viewport-bug-workaround.css HTTP/1.1" 200 433
+[05/Aug/2017 13:58:44] "GET /static/css/theme.css HTTP/1.1" 200 255
+[05/Aug/2017 13:58:44] "GET /static/js/ie-emulation-modes-warning.js HTTP/1.1" 200 2130
+[05/Aug/2017 13:58:44] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+[05/Aug/2017 13:58:45] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+[05/Aug/2017 13:58:45] "GET /static/js/docs.min.js HTTP/1.1" 200 47160
+[05/Aug/2017 13:58:45] "GET /static/js/ie10-viewport-bug-workaround.js HTTP/1.1" 200 641
+Not Found: /assets/flash/ZeroClipboard.swf
+[05/Aug/2017 13:58:47] "GET /assets/flash/ZeroClipboard.swf?noCache=1501941526363 HTTP/1.1" 404 2515
+Not Found: /favicon.ico
+[05/Aug/2017 13:58:47] "GET /favicon.ico HTTP/1.1" 404 2436
+[05/Aug/2017 13:58:49] "GET /accounts/login/ HTTP/1.1" 200 6632
+[05/Aug/2017 13:58:49] "GET /static/facebook/js/fbconnect.js HTTP/1.1" 200 3260
+Not Found: /assets/flash/ZeroClipboard.swf
+[05/Aug/2017 13:58:50] "GET /assets/flash/ZeroClipboard.swf?noCache=1501941530237 HTTP/1.1" 404 2515
+[05/Aug/2017 13:58:53] "GET /accounts/google/login/?process=login HTTP/1.1" 302 0
+[05/Aug/2017 14:05:36] "GET / HTTP/1.1" 200 4312
+Not Found: /assets/flash/ZeroClipboard.swf
+[05/Aug/2017 14:05:37] "GET /assets/flash/ZeroClipboard.swf?noCache=1501941937594 HTTP/1.1" 404 2515
+[05/Aug/2017 14:06:24] "GET / HTTP/1.1" 200 4312
+Not Found: /assets/flash/ZeroClipboard.swf
+[05/Aug/2017 14:06:26] "GET /assets/flash/ZeroClipboard.swf?noCache=1501941985841 HTTP/1.1" 404 2515
+[05/Aug/2017 14:06:28] "GET /accounts/login/ HTTP/1.1" 200 6632
+Not Found: /assets/flash/ZeroClipboard.swf
+[05/Aug/2017 14:06:29] "GET /assets/flash/ZeroClipboard.swf?noCache=1501941989345 HTTP/1.1" 404 2515
+[05/Aug/2017 14:06:31] "GET /accounts/facebook/login/?process=login HTTP/1.1" 302 0
+Internal Server Error: /accounts/facebook/login/callback/
+Traceback (most recent call last):
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/socialaccount/providers/oauth2/views.py", line 73, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/socialaccount/providers/oauth2/views.py", line 143, in dispatch
+    return complete_social_login(request, login)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/socialaccount/helpers.py", line 153, in complete_social_login
+    return _complete_social_login(request, sociallogin)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/socialaccount/helpers.py", line 175, in _complete_social_login
+    ret = _process_signup(request, sociallogin)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/socialaccount/helpers.py", line 46, in _process_signup
+    get_adapter(request).save_user(request, sociallogin, form=None)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/socialaccount/adapter.py", line 80, in save_user
+    get_account_adapter().populate_username(request, u)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/account/adapter.py", line 217, in populate_username
+    'user']))
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/account/adapter.py", line 220, in generate_unique_username
+    return generate_unique_username(txts, regex)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/utils.py", line 114, in generate_unique_username
+    raise NotImplementedError('Unable to find a unique username')
+NotImplementedError: Unable to find a unique username
+[05/Aug/2017 14:06:33] "GET /accounts/facebook/login/callback/?code=AQDygF66wpnry5PoeXOp4oWd9QHRt8RRzsDmsOvcEOp3TfM9ff4c9nB-ifwlMOp6kWO_Nz22F2HMNwHIHEem9pslj6hSvHqy2ecwyBzqT0Pee-ayVvJ6gPeUjERNpOjJNlDEbNJ38T6UM-e76X0x8Nte1eH3J4Lc37qseBXBt48fFvVTSDGH7ZA7a9Bdsy-B_EUXN_0OZNZ-soKFjUPIDzNihl8M2f6KvhfGnlOvvvMqo1n5gTiCKGohaYpF4-W464cMnnnxR03j9g_tUzv-Of9hgJdbk458s0edEtprYpcNXuHEle_m804E2Fg5NKLVWReQx85Xs_KS1zhZsD8IG7kA&state=2AZjKbRyWJ2r HTTP/1.1" 500 113431
+[05/Aug/2017 14:12:18] "GET / HTTP/1.1" 200 4312
+[05/Aug/2017 14:12:19] "GET /static/css/bootstrap-theme.min.css HTTP/1.1" 200 23409
+[05/Aug/2017 14:12:19] "GET /static/css/ie10-viewport-bug-workaround.css HTTP/1.1" 200 433
+[05/Aug/2017 14:12:19] "GET /static/css/theme.css HTTP/1.1" 200 255
+[05/Aug/2017 14:12:19] "GET /static/js/ie-emulation-modes-warning.js HTTP/1.1" 200 2130
+[05/Aug/2017 14:12:19] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+[05/Aug/2017 14:12:19] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+[05/Aug/2017 14:12:20] "GET /static/js/docs.min.js HTTP/1.1" 200 47160
+[05/Aug/2017 14:12:20] "GET /static/js/ie10-viewport-bug-workaround.js HTTP/1.1" 200 641
+Not Found: /assets/flash/ZeroClipboard.swf
+[05/Aug/2017 14:12:21] "GET /assets/flash/ZeroClipboard.swf?noCache=1501942340848 HTTP/1.1" 404 2551
+Not Found: /favicon.ico
+[05/Aug/2017 14:12:21] "GET /favicon.ico HTTP/1.1" 404 2472
+[05/Aug/2017 14:12:24] "GET /accounts/login/ HTTP/1.1" 200 6812
+[05/Aug/2017 14:12:24] "GET /static/facebook/js/fbconnect.js HTTP/1.1" 200 3260
+Not Found: /assets/flash/ZeroClipboard.swf
+[05/Aug/2017 14:12:25] "GET /assets/flash/ZeroClipboard.swf?noCache=1501942344901 HTTP/1.1" 404 2551
+[05/Aug/2017 14:12:27] "GET /accounts/google/login/?process=login HTTP/1.1" 302 0
+[05/Aug/2017 14:12:55] "GET / HTTP/1.1" 200 4312
+Not Found: /assets/flash/ZeroClipboard.swf
+[05/Aug/2017 14:12:56] "GET /assets/flash/ZeroClipboard.swf?noCache=1501942376479 HTTP/1.1" 404 2551
+Internal Server Error: /accounts/google/login/callback/
+Traceback (most recent call last):
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/socialaccount/providers/oauth2/views.py", line 73, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/socialaccount/providers/oauth2/views.py", line 143, in dispatch
+    return complete_social_login(request, login)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/socialaccount/helpers.py", line 153, in complete_social_login
+    return _complete_social_login(request, sociallogin)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/socialaccount/helpers.py", line 175, in _complete_social_login
+    ret = _process_signup(request, sociallogin)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/socialaccount/helpers.py", line 46, in _process_signup
+    get_adapter(request).save_user(request, sociallogin, form=None)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/socialaccount/adapter.py", line 80, in save_user
+    get_account_adapter().populate_username(request, u)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/account/adapter.py", line 217, in populate_username
+    'user']))
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/account/adapter.py", line 220, in generate_unique_username
+    return generate_unique_username(txts, regex)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/utils.py", line 114, in generate_unique_username
+    raise NotImplementedError('Unable to find a unique username')
+NotImplementedError: Unable to find a unique username
+[05/Aug/2017 14:16:18] "GET /accounts/google/login/callback/?state=tPFIahPl3Z6h&code=4/BWJSGHrkEbGXBtahWOKKztnBCb8MMYCRM9I8qxCHSdE HTTP/1.1" 500 109901
+Performing system checks...
+
+System check identified no issues (0 silenced).
+August 05, 2017 - 13:58:34
+Django version 1.11, using settings 'tryTen.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7f2c76287e60>
+Traceback (most recent call last):
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/utils/autoreload.py", line 227, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 117, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/utils/autoreload.py", line 250, in raise_last_exception
+    six.reraise(*_exception)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/utils/autoreload.py", line 227, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+    app_config.import_models()
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/apps/config.py", line 202, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/account/models.py", line 12, in <module>
+    from . import app_settings, signals
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/account/app_settings.py", line 320, in <module>
+    app_settings = AppSettings('ACCOUNT_')
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/account/app_settings.py", line 25, in __init__
+    self.AuthenticationMethod.USERNAME) or self.UNIQUE_EMAIL
+AssertionError
+Unhandled exception in thread started by <function wrapper at 0x7fc32935fe60>
+Traceback (most recent call last):
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/utils/autoreload.py", line 227, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 117, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/utils/autoreload.py", line 250, in raise_last_exception
+    six.reraise(*_exception)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/utils/autoreload.py", line 227, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+    app_config.import_models()
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/django/apps/config.py", line 202, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/account/models.py", line 12, in <module>
+    from . import app_settings, signals
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/account/app_settings.py", line 320, in <module>
+    app_settings = AppSettings('ACCOUNT_')
+  File "/home/ubuntu/Deev/tryTen/local/lib/python2.7/site-packages/allauth/account/app_settings.py", line 25, in __init__
+    self.AuthenticationMethod.USERNAME) or self.UNIQUE_EMAIL
+AssertionError
