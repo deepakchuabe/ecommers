@@ -32,7 +32,7 @@ SECRET_KEY = 'x1c)s#%)_qs2@1*5821-5x0gz)q!xgzlvb7m+26x98&d91$t=l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ec2-52-11-132-80.us-west-2.compute.amazonaws.com','52.11.132.80']
+ALLOWED_HOSTS = ['minduses.com','ec2-52-11-132-80.us-west-2.compute.amazonaws.com','52.11.132.80']
 
 
 # Application definition
